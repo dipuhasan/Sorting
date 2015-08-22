@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>
 // A iterative binary search function.
 int binarySearch(int arr[], int l, int r, int x)
